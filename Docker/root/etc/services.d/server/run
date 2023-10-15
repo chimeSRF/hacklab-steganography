@@ -1,0 +1,2 @@
+#!/command/with-contenv bash
+exec socat TCP-LISTEN:1345,fork,reuseaddr EXEC:/app/server.py
