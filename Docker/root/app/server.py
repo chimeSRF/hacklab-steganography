@@ -20,6 +20,7 @@ SONGPATH = f'/app/res/{SONGNAME}.mp3'
 MIDIPATH = f'/app/res/{MIDINAME}.mid'
 TEXTPATH = f'/app/res/{TEXTNAME}.txt'
 FAIRYIAMGE = f'/app/res/{FAIRY}.jpg'
+# Download the video from https://vimeo.com/874505445
 VIDSCRIPTPATH = f'/app/res/{VIDSCRIPTNAME}.py'
 WHITESCRIPTPATH = f'/app/res/{WHITESPNAME}.py'
 OUTPUT = '/opt/www/'
